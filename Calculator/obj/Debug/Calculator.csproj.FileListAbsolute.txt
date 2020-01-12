@@ -1,0 +1,9 @@
+E:\all about learning\computer science\codes\visual studio codes\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\all about learning\computer science\codes\visual studio codes\Calculator\obj\Debug\Calculator.Form1.resources
+E:\all about learning\computer science\codes\visual studio codes\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\all about learning\computer science\codes\visual studio codes\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\all about learning\computer science\codes\visual studio codes\Calculator\bin\Debug\Calculator.exe.config
+E:\all about learning\computer science\codes\visual studio codes\Calculator\bin\Debug\Calculator.exe
+E:\all about learning\computer science\codes\visual studio codes\Calculator\bin\Debug\Calculator.pdb
+E:\all about learning\computer science\codes\visual studio codes\Calculator\obj\Debug\Calculator.exe
+E:\all about learning\computer science\codes\visual studio codes\Calculator\obj\Debug\Calculator.pdb
