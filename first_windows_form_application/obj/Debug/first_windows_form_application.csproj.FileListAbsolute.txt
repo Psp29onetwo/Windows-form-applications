@@ -1,0 +1,9 @@
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\obj\Debug\first_windows_form_application.csprojAssemblyReference.cache
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\obj\Debug\first_windows_form_application.Form1.resources
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\obj\Debug\first_windows_form_application.Properties.Resources.resources
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\obj\Debug\first_windows_form_application.csproj.GenerateResource.cache
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\bin\Debug\first_windows_form_application.exe.config
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\bin\Debug\first_windows_form_application.exe
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\bin\Debug\first_windows_form_application.pdb
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\obj\Debug\first_windows_form_application.exe
+E:\all about learning\computer science\codes\visual studio codes\first_windows_form_application\obj\Debug\first_windows_form_application.pdb
