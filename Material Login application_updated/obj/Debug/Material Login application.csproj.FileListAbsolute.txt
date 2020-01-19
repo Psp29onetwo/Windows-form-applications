@@ -1,0 +1,14 @@
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\bin\Debug\Material Login application.exe.config
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\bin\Debug\Material Login application.exe
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\bin\Debug\Material Login application.pdb
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\bin\Debug\MaterialSkin.dll
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material Login application.csprojAssemblyReference.cache
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material_Login_application.Form1.resources
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material_Login_application.Properties.Resources.resources
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material Login application.csproj.GenerateResource.cache
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material Login application.csproj.CopyComplete
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material Login application.exe
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material Login application.pdb
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\bin\Debug\login_db.mdf
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\bin\Debug\login_db_log.ldf
+E:\all about learning\computer science\codes\visual studio codes\Material Login application\obj\Debug\Material_Login_application.Welcome.resources
